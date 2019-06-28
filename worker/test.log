@@ -1,0 +1,44 @@
+2019-06-20 10:11:29,832 - __main__ - INFO - total 80
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong   657 Jun 18 16:29 loog.py
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong   125 Jun 18 18:16 loop.py
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong  4547 Jun 18 14:41 services_pb2_grpc.py
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong  3939 Jun 18 14:43 services_pb2_grpc.pyc
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong 29031 Jun 18 14:41 services_pb2.py
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong 15287 Jun 18 14:43 services_pb2.pyc
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong     0 Jun 20 10:11 test.log
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong   879 Jun 20 10:11 test.py
+
+2019-06-20 10:11:29,833 - __main__ - INFO - drwxrwxr-x. 5 phong phong  4096 Jun 14 16:01 venv
+
+2019-06-20 10:11:29,833 - __main__ - INFO - -rw-rw-r--. 1 phong phong  2310 Jun 18 16:14 worker.py
+
+2019-06-20 10:11:35,146 - __main__ - INFO - total 84
+
+2019-06-20 10:11:35,148 - __main__ - INFO - -rw-rw-r--. 1 phong phong   657 Jun 18 16:29 loog.py
+
+2019-06-20 10:11:35,149 - __main__ - INFO - -rw-rw-r--. 1 phong phong   125 Jun 18 18:16 loop.py
+
+2019-06-20 10:11:35,149 - __main__ - INFO - -rw-rw-r--. 1 phong phong  4547 Jun 18 14:41 services_pb2_grpc.py
+
+2019-06-20 10:11:35,149 - __main__ - INFO - -rw-rw-r--. 1 phong phong  3939 Jun 18 14:43 services_pb2_grpc.pyc
+
+2019-06-20 10:11:35,149 - __main__ - INFO - -rw-rw-r--. 1 phong phong 29031 Jun 18 14:41 services_pb2.py
+
+2019-06-20 10:11:35,149 - __main__ - INFO - -rw-rw-r--. 1 phong phong 15287 Jun 18 14:43 services_pb2.pyc
+
+2019-06-20 10:11:35,149 - __main__ - INFO - -rw-rw-r--. 1 phong phong  1078 Jun 20 10:11 test.log
+
+2019-06-20 10:11:35,149 - __main__ - INFO - -rw-rw-r--. 1 phong phong   879 Jun 20 10:11 test.py
+
+2019-06-20 10:11:35,149 - __main__ - INFO - drwxrwxr-x. 5 phong phong  4096 Jun 14 16:01 venv
+
+2019-06-20 10:11:35,149 - __main__ - INFO - -rw-rw-r--. 1 phong phong  2310 Jun 18 16:14 worker.py
+

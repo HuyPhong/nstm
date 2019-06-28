@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nextsmarty",
+  "private_key_id": "75687328ad514e462666dff0ee878e1c372fe1e3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDsZPxG/wPbWN36\nhhOG68hot/gdZ49F5PaAFNv4119dH5UWFmsHUDosV7VSd4vliqXmEsvdqvfRq71L\n/BpYKYfPYR09da8jHPpcp6j59OHhDxQp0b8xe8KXdJCJX/uTPd0JjP8dZnpW+PFN\nQBocqkwfe99BscVKjhtWxwX/lKKGQ3AW/f/pBS49KsP+W8XjGbCOKdVM98KIUqLG\nvLBh9y2icEexfT9Dzj/7/zG+Y6BSofbO3myLnxETKYchhgWAOCi2rsX+TJHaN30r\npwH6h1qnpQgEzu30R0IWAgRJtHSF6r9odXrs44n5rxcGKQg9z2RCjwyJ6yCcjC1b\nSPvlwqapAgMBAAECggEABBJKMQvX3GmHqzavc+mwMjOG87SyqETFBRg24K6O7yrp\n1a9NqRrV4akiD5lNAMdWS6PjvH3jFkqjsEEXkBCpDOaSixoxicSIQFvH4oQ39rkc\ngwrghODpjVO94IvVaKgOXEmAJFi9Py269DZoLLm3JWyr//TonbvcVy6G2SvNb8wF\nkqpGyPFlSxHeAPiddtIS/4u50GQr4Wg2NMy0V7krgFHlYhlMVI+VGUSAr3sfdOuq\nplCrqeHJLLbGJSCDk8phrednxPajgL7WdrpW6YyH9XS2fWu5j1ZrR+hKPGUMC4Wa\nSl/udrHMUAIalR/tzQV2H5LoZQM+fKETO3DxeehvwQKBgQD7FPJEmULlGiXb0Mwm\n0YnfrIRo0gMP+zXgQILr00XcSn816gxdEAQeXsWTpbsinrvQuiSvXIHtGHVyq5Lp\n1mgKsuo+A9wHS9TF09tAtLset++FEqh5fnHlEHq3XaaUaigBXn+O8qwvhFjUvMno\ntwEjsGsm92o46dKHhs0q/p0aoQKBgQDxBmOgueq3QXzA+nKMitWKi915m6zMDGH2\n+BlqpdLGxXPUfNbnHEdm4PVcjhIGDl0z3Pk/aWmsLChKPBRmuLv+4ODI/HHo39fB\nBhRMjYk2jYXIUPXeE/llyvEDZasBJhpxYsJOCiVvQSKkNlFcqQyz4/N7crhbkJPq\nxfxCkDBXCQKBgAU5xmEPH4lNJgSRL+6O5eO133ufA1lNzS1BqnfmCcov8r3YhTFa\np/tJ1arhBCgQTbBmb2UG891PaQJd98zOHZQ7bQylX+r29RK4+hM6r7pP8bg/TypY\nK16tHSC73j+wheyhXt5GxramdoLW+wzQ4kEv5ssE0z0kALG5aIPAkNyBAoGBAJdj\nd/hgTnlEfOOJa6GzImWfbEER8vtHW9EQDIbcGQQYyaRRtXn8XSzVZ8f2xINhSlFl\nHnkh8Onf4n6eNgI/TnXNMeOMDNBEqPPoqZ9b1y+YvMsRbx1KVoAFdFS56ysRj9Jg\nQcNaxCCZPPT/2SLmW8AyEaEccYexy/bO3J/CiVphAoGAKnmkrv+C4wcoqwXf+5aB\nJYSmNmBKYBBNmKivl57hUdcYmAubApIIwRmA0xmRr4HN/cO9WUaDepwOTeeWGSP5\n6Wf5yCPOkCUWULtpu2mqUeJzEU1Y8QRJfUmU8RZffzehzb9b/r9+NsLm9vLO2uys\ncZl0r7rm8okScVZH0WjbSwg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloudstoragenextmsarty@nextsmarty.iam.gserviceaccount.com",
+  "client_id": "106930574149449067444",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloudstoragenextmsarty%40nextsmarty.iam.gserviceaccount.com"
+}
